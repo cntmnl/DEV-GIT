@@ -1,0 +1,16 @@
+D:\DEV\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\bin\Release\SharePoint.TaxonomyManager.exe
+D:\DEV\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\bin\Release\SharePoint.TaxonomyManager.pdb
+D:\DEV\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\bin\Release\SharePoint.TaxonomyManager.Api.dll
+D:\DEV\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\bin\Release\CarlosAg.ExcelXmlWriter.dll
+D:\DEV\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\bin\Release\SharePoint.TaxonomyManager.Api.pdb
+D:\DEV\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\obj\Release\SharePoint.TaxonomyManager.csprojResolveAssemblyReference.cache
+D:\DEV\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\obj\Release\SharePoint.TaxonomyManager.exe
+D:\DEV\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\obj\Release\SharePoint.TaxonomyManager.pdb
+D:\DEV-GIT\DEV-GIT\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\obj\Release\SharePoint.TaxonomyManager.exe
+D:\DEV-GIT\DEV-GIT\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\obj\Release\SharePoint.TaxonomyManager.pdb
+D:\DEV-GIT\DEV-GIT\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\bin\Release\SharePoint.TaxonomyManager.exe
+D:\DEV-GIT\DEV-GIT\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\bin\Release\SharePoint.TaxonomyManager.pdb
+D:\DEV-GIT\DEV-GIT\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\bin\Release\SharePoint.TaxonomyManager.Api.dll
+D:\DEV-GIT\DEV-GIT\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\bin\Release\CarlosAg.ExcelXmlWriter.dll
+D:\DEV-GIT\DEV-GIT\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\bin\Release\SharePoint.TaxonomyManager.Api.pdb
+D:\DEV-GIT\DEV-GIT\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\obj\Release\SharePoint.TaxonomyManager.csprojResolveAssemblyReference.cache

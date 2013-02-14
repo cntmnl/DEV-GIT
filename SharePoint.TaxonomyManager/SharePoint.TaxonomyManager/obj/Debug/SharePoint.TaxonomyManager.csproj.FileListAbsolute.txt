@@ -1,0 +1,8 @@
+D:\DEV\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\bin\Debug\SharePoint.TaxonomyManager.exe
+D:\DEV\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\bin\Debug\SharePoint.TaxonomyManager.pdb
+D:\DEV\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\obj\Debug\SharePoint.TaxonomyManager.exe
+D:\DEV\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\obj\Debug\SharePoint.TaxonomyManager.pdb
+D:\DEV\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\obj\Debug\SharePoint.TaxonomyManager.csprojResolveAssemblyReference.cache
+D:\DEV\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\bin\Debug\SharePoint.TaxonomyManager.Api.dll
+D:\DEV\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\bin\Debug\CarlosAg.ExcelXmlWriter.dll
+D:\DEV\SharePoint.TaxonomyManager\SharePoint.TaxonomyManager\bin\Debug\SharePoint.TaxonomyManager.Api.pdb
